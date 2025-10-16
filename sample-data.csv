@@ -1,0 +1,116 @@
+Date,Category,Amount,Type
+2025-01-05,Product Sales,45000,Revenue
+2025-01-05,Salaries,25000,Expense
+2025-01-08,Services,18000,Revenue
+2025-01-10,Rent,8000,Expense
+2025-01-12,Consulting,12000,Revenue
+2025-01-15,Marketing,7000,Expense
+2025-01-18,Subscriptions,5000,Revenue
+2025-01-20,Utilities,4000,Expense
+2025-01-22,Product Sales,38000,Revenue
+2025-01-25,Supplies,6000,Expense
+2025-01-28,Services,22000,Revenue
+2025-01-30,Insurance,3500,Expense
+2025-02-02,Product Sales,52000,Revenue
+2025-02-02,Salaries,25000,Expense
+2025-02-05,Consulting,15000,Revenue
+2025-02-08,Technology,5000,Expense
+2025-02-10,Services,19000,Revenue
+2025-02-12,Rent,8000,Expense
+2025-02-15,Subscriptions,6000,Revenue
+2025-02-18,Marketing,8000,Expense
+2025-02-20,Product Sales,42000,Revenue
+2025-02-22,Travel,3000,Expense
+2025-02-25,Consulting,14000,Revenue
+2025-02-28,Maintenance,4500,Expense
+2025-03-01,Product Sales,48000,Revenue
+2025-03-01,Salaries,26000,Expense
+2025-03-05,Services,21000,Revenue
+2025-03-08,Rent,8000,Expense
+2025-03-10,Subscriptions,7000,Revenue
+2025-03-12,Utilities,4200,Expense
+2025-03-15,Product Sales,55000,Revenue
+2025-03-18,Marketing,9000,Expense
+2025-03-20,Consulting,16000,Revenue
+2025-03-22,Supplies,5500,Expense
+2025-03-25,Services,23000,Revenue
+2025-03-28,Technology,6000,Expense
+2025-04-02,Product Sales,61000,Revenue
+2025-04-02,Salaries,27000,Expense
+2025-04-05,Consulting,18000,Revenue
+2025-04-08,Rent,8500,Expense
+2025-04-10,Services,25000,Revenue
+2025-04-12,Insurance,3800,Expense
+2025-04-15,Subscriptions,8000,Revenue
+2025-04-18,Marketing,10000,Expense
+2025-04-20,Product Sales,58000,Revenue
+2025-04-22,Utilities,4500,Expense
+2025-04-25,Consulting,17000,Revenue
+2025-04-28,Travel,4000,Expense
+2025-05-01,Product Sales,55000,Revenue
+2025-05-01,Salaries,28000,Expense
+2025-05-05,Services,24000,Revenue
+2025-05-08,Rent,8500,Expense
+2025-05-10,Consulting,15000,Revenue
+2025-05-12,Marketing,8500,Expense
+2025-05-15,Subscriptions,9000,Revenue
+2025-05-18,Supplies,6500,Expense
+2025-05-20,Product Sales,49000,Revenue
+2025-05-22,Technology,7000,Expense
+2025-05-25,Services,26000,Revenue
+2025-05-28,Maintenance,5000,Expense
+2025-06-02,Product Sales,67000,Revenue
+2025-06-02,Salaries,29000,Expense
+2025-06-05,Consulting,20000,Revenue
+2025-06-08,Rent,9000,Expense
+2025-06-10,Services,28000,Revenue
+2025-06-12,Utilities,4800,Expense
+2025-06-15,Subscriptions,10000,Revenue
+2025-06-18,Marketing,11000,Expense
+2025-06-20,Product Sales,62000,Revenue
+2025-06-22,Insurance,4000,Expense
+2025-06-25,Consulting,19000,Revenue
+2025-06-28,Travel,5000,Expense
+2025-07-01,Product Sales,72000,Revenue
+2025-07-01,Salaries,30000,Expense
+2025-07-05,Services,30000,Revenue
+2025-07-08,Rent,9000,Expense
+2025-07-10,Consulting,22000,Revenue
+2025-07-12,Marketing,12000,Expense
+2025-07-15,Subscriptions,11000,Revenue
+2025-07-18,Technology,8000,Expense
+2025-07-20,Product Sales,68000,Revenue
+2025-07-22,Supplies,7000,Expense
+2025-07-25,Services,27000,Revenue
+2025-07-28,Utilities,5000,Expense
+2025-08-01,Product Sales,68000,Revenue
+2025-08-01,Salaries,31000,Expense
+2025-08-05,Consulting,21000,Revenue
+2025-08-08,Rent,9000,Expense
+2025-08-10,Services,29000,Revenue
+2025-08-12,Marketing,10500,Expense
+2025-08-15,Subscriptions,12000,Revenue
+2025-08-18,Maintenance,5500,Expense
+2025-08-20,Product Sales,65000,Revenue
+2025-08-22,Insurance,4200,Expense
+2025-08-25,Consulting,20000,Revenue
+2025-08-28,Travel,4500,Expense
+2025-09-02,Product Sales,70000,Revenue
+2025-09-02,Salaries,32000,Expense
+2025-09-05,Services,31000,Revenue
+2025-09-08,Rent,9500,Expense
+2025-09-10,Consulting,23000,Revenue
+2025-09-12,Technology,9000,Expense
+2025-09-15,Subscriptions,13000,Revenue
+2025-09-18,Marketing,11500,Expense
+2025-09-20,Product Sales,66000,Revenue
+2025-09-22,Utilities,5200,Expense
+2025-09-25,Services,28000,Revenue
+2025-09-28,Supplies,7500,Expense
+2025-10-01,Product Sales,73000,Revenue
+2025-10-01,Salaries,33000,Expense
+2025-10-05,Consulting,24000,Revenue
+2025-10-08,Rent,9500,Expense
+2025-10-10,Services,32000,Revenue
+2025-10-12,Marketing,12000,Expense
+2025-10-15,Subscriptions,14000,Revenue
